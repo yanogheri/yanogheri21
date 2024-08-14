@@ -1,0 +1,13 @@
+1 – Encontre referências e comente:
+a. A relação entre a LGPD e os Data Centers no Brasil
+Resposta: A LGPD foi criada para a proteção dos direitos fundamentais, sendo eles a liberdade, privacidade e formação de personalidade dos individuos. Ela surge para regular o tratamento de dados de pessoas fisicas, juridicas, privadas e publicas, podendo ser atraves de formatos manuais ou digitais.
+Os Datas Centers, são empresas que hospedam servidores, que servem para o processamento e armazenamento de dados, sendo extremamente relevante para grandes corporações do mundo digital/internet.
+Atualmente, o Brasil, comparado com outros paises da america latina, é lider em investimentos em Data Centers.Junto a isso, vale ressaltar que a LGPD elevou a importancia dos Data Centers, no Brasil, sendo impulsionada pela regulamentação de proteção de dados, computação em nuvem e investimento nacional. 
+
+b. Formatos de arquivos de dados proprietários e abertos
+b.1 forneça exemplos de formatos
+Resposta:Exemplos de formatos de arquivos proprietarios são os SWF (Shockwave Flash),PPT (Formato para apresentação de slides) e DOC (Formato proprietario de text) e de arquivos de dados abertos são os ODP (Open Document Presentation), ODF (Open Document Format) e o Photoshop.
+
+b.2 discuta as implicações relacionadas a dados públicos
+Resposta: Dados Publicos são aqueles que não tem restrições de privacidade, segurança ou controle de acesso, conforme definidos por estatutos. Originados do exercicio do Estado, esses dados devem ser divulgados e podem ser armazenados em formatos de arquivos abertos ou proprietarios. Os arquivos abertos seguem padrões amplamente divulgados, permitindo que diferentes softwares os utilizem, ja os proprietarios são restritos e controlados por direitos de propriedade, representando uma privatização da memoria digital. 
+No Brasil, os dados publicos deveriam ser responsabilizados em formato publico, porem é disponibilizado como formato proprietario. O principal argumento utilizado pelo governo é que a questão de dificultar o acesso por questões de segurança dos dados. Por fim, existe um esforço para que o governo brasileiro passe a disponibilizar os dados em formato aberto. 
