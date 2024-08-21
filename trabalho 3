@@ -1,0 +1,8 @@
+1 – Explique as diferenças entre 3 linguagens de programação: 
+Resposta: Python, JavaScript e C++ são linguagens de programação com caracteristicas distintas. A Python, com sua sintaxe simples e leglidade, é ideal para desenvolvimento rapido e facil, em especifico em ciencia de dados e automação. O JavaScript é essencial para o desenvolvimento, criando interfaces dinamicas e interativas tanto no navegador quanto no servidor com Node.js. Por fim, o C++, é uma liguagem compilada de baixo nivel, usada para aplicações que exigem alto desempenho, oferecendo controle detalhado sobre o hardware e complexidade na gestão de memoria.
+
+a. Tente fazer um código mínimo em cada uma delas:
+b. Tente executar o seu código:
+Resposta:
+- Python:
+2 – Inclua seus comentários no arquivo de texto NO github
