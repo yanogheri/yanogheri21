@@ -1,0 +1,26 @@
+1) Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+
+1.1) Estrutura de repetição:
+- Codigo:
+
+Paises = ('Portugal', 'Brasil', 'Estados Unidos', 'Espanha')
+for Paises in Paises:
+    print (Paises) 
+
+- Comprovante de Execução: 
+https://github.com/yanogheri/yanogheri21/blob/main/T4%20-%20Python%20Estrutura%20de%20Repeti%C3%A7%C3%A3o.PNG
+
+1.2) Estrutura de tomada de decisão: 
+- Codigo:
+
+#Variável Nota
+nota = 10
+
+# Condição Para Verificar a Nota
+if nota >= 7:
+    print("Aprovado.")
+else:
+    print("Não aprovado.")
+
+- Comprovante de Execução: 
+https://github.com/yanogheri/yanogheri21/blob/main/T4%20-%20Python%20Estrutura%20Tomada%20de%20Decisao.PNG
