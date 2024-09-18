@@ -1,0 +1,142 @@
+Lista de Exercícios
+Programação e Direito
+
+1) No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus conceitos fundamentais ao lidar com o Direito.
+Resposta - Usar a computação como uma ferramenta para automatizar o trabalho. Conhecer a computação para padronizar a tecnologia de investimentos. Solucionar os conflitos das relações entre pessoas.
+++ No contexto da ubiquidade da computação, dominar os conceitos fundamentais da tecnologia é vantajoso para o Direito por várias razões. Primeiramente, essa compreensão permite uma interpretação mais precisa das normas jurídicas relacionadas a dados, privacidade e propriedade intelectual. Além disso, facilita a criação de leis que acompanhem a rápida evolução das tecnologias, garantindo uma regulação eficaz. O conhecimento em computação também ajuda advogados e juízes a lidar com casos envolvendo evidências digitais, como cibercrime e crimes de informação. Profissionais com habilidades tecnológicas podem oferecer serviços de consultoria mais qualificados a empresas em questões de conformidade e proteção de dados. Por fim, entender aspectos digitais é essencial para a prática jurídica moderna, melhorando a eficácia da advocacia. 
+
+
+2) Muitos termos são usados no nosso cotidiano com um significado, mas apresentam outro, geralmente mais preciso, em determinada área do conhecimento. Não seria diferente com os termos da computação. Considerando esse fato, explique o que significa, na área da computação, os seguintes termos:
+a) algoritmo;
+Resposta - Sequência finita de instruções que define como resolver um problema ou realizar uma tarefa.
+
+b) nuvem;
+Resposta - Camada de abstracao que une computadores, Rede global de servidores, Aramazenamento e processamento remoto
+
+c) servidor;
+Resposta - É um computador ou software mais potente que um desktop comum. Ele é capaz de conter um ou mais processadores, além de bancos de memórias, portas de comunicação, diferentes softwares e sistemas de armazenamento de dados. Tambem, programa de computador que presta servico para outros programas.
+
+d) neutralidade da rede;
+Resposta -  Princípio que garante que todos os dados na internet sejam tratados de forma igual, sem discriminação ou priorização por parte dos provedores de internet, nao ha prioride.
+
+e) arquivo.
+Resposta - Coleção de dados ou informações armazenadas em um dispositivo, com um nome e uma extensão que indicam seu tipo e formato.
+
+
+3) A realidade é infinitamente complexa e o mundo é multifacetado. Dito isso, explique como conseguimos organizar na palavra Internet conceitos diferentes como máquinas, cabos, programas e dados?
+Resposta - Utilizando conceitos com a mesma palavra com níveis de abstração diferentes. 
+
+
+4) Sabendo que computadores precisam ser programados precisamente para realizar suas tarefas, e que, então, só repetiriam o que humanos já sabem fazer, por que eles foram inventados?
+Resposta - Automatizar processos de repetição, dando celeridade as atividade
+
+
+5) Por que uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos, por exemplo. Existe algum algoritmo ou modelo de IA que poderia ser utilizado em algum dos casos em pauta? Se sim, por que e em qual?
+Resposta - Nao, pois e muito complexa para explicar a motivacao da tomada de decisao. Sim existe, pode ser utilizado o Random Forest, para a concessao de emprestimos pois a tomada de decisao e passiva de explicacao.
+
+
+6) O que diferencia um arquivo “binário” de um arquivo “de texto”?                                                                                                                                                                                                                                                                                                      Resposta - Arquivos binários armazenam dados em um formato que não é legível por humanos, sendo interpretados como uma sequência de bytes, 0 e 1, que podem representar cores, objetos... . Arquivos de texto armazenam dados em um formato legível por humanos, utilizando caracteres codificados e podem ser abertos e editados em qualquer programa que abra arquivo de texto.
+
+
+7) O que diferencia um formato proprietário de arquivos e um formato aberto de arquivos. Contextualize no cenário da divulgação e manutenção de dados públicos.
+Resposta - O formato de arquivo de dados aberto garante o acesso a dados a longo prazo e indica uma previsão técnica de domínio público, exemplo HTML. O formato do arquivo de dados proprietário é definido por interesses privados e o usuário corre o risco de perder as informações contidas no arquivo caso o software pare de operar. Um exemplo é o PPT.
+Os dados públicos são aqueles que não tem restrições de privacidade, segurança ou controle de acesso, conforme definidos por estatutos. Originados do exercício do Estado, esses dados devem ser divulgados e podem ser armazenados em formatos de arquivos abertos ou proprietários. Os arquivos abertos seguem padrões amplamente divulgados, permitindo que diferentes softwares os utilizem, já os proprietários são restritos e controlados por direitos de propriedade, representando uma privatização da memória digital.  No Brasil, os dados públicos deveriam ser responsabilizados em formato público aberto, porém é disponibilizado como formato proprietário. O principal argumento utilizado pelo governo é que a questão de dificultar o acesso por questões de segurança dos dados. Por fim, existe um esforço para que o governo brasileiro passe a disponibilizar os dados em formato público aberto.
+
+
+8) O que diferencia, no contexto da computação, um protocolo de comunicação aberto de um protocolo de comunicação proprietário? Contextualize no cenário da liberdade econômica e do desenvolvimento de novas aplicações para internet.
+Resposta - A principal diferença entre um protocolo de comunicação aberto e um protocolo de comunicação proprietário no contexto da computação está na acessibilidade e na liberdade de uso. Protocolos abertos são desenvolvidos e disponibilizados para que qualquer pessoa possa utilizá-los, modificá-los e implementá-los sem restrições. Exemplos incluem HTTP e TCP/IP. Já os protocolos proprietários são controlados por uma empresa ou entidade específica, o que pode limitar seu uso e implementação, exigindo licenças ou software específico.
+No cenário da liberdade econômica e do desenvolvimento de novas aplicações para a internet, os protocolos abertos são fundamentais, pois promovem a inovação e a competição. Eles permitem que desenvolvedores criem aplicações e serviços de forma livre, sem depender de condições impostas por terceiros. Isso favorece a diversidade de soluções no mercado e facilita a colaboração entre diferentes plataformas e sistemas. Em contraste, protocolos proprietários podem criar barreiras à entrada, restringindo o acesso a tecnologias e limitando o potencial de crescimento econômico e a criação de novas aplicações. Assim, a utilização de protocolos abertos contribui para um ecossistema digital mais dinâmico e inclusivo.
+
+
+9) Sobre o “sistema operacional”:
+a) O que é um sistema operacional e qual a sua relação com os programas do computador e seus componentes físicos?
+Resposta - Um sistema operacional é um software que gerencia os recursos de hardware de um computador e fornece serviços básicos para que outros programas possam ser executados. Ele atua como uma interface entre o usuário e os componentes físicos do computador, como processador, memória e dispositivos de entrada/saída. Sem um sistema operacional, os programas não conseguiriam interagir diretamente com o hardware.
+
+b) Existe apenas um sistema operacional disponível?
+Resposta - Não, existem diversos sistemas operacionais disponíveis, cada um com características e finalidades específicas. Exemplos incluem Windows, macOS, Linux e Android.
+
+c) Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado “venda casada”? Explique.
+Resposta - Não se pode considerar como operação casada a venda de notebook com o sistema operacional previamente instalado, posto que não é usual a venda de computadores sem sistema operacional, mesmo porque o sistema operacional é um conjunto de programas básicos e utilitários que fazem o computador funcionar.
+
+
+10) Sobre a LGPD:
+a) Sua abrangência inclui datacenters em países estrangeiros? Explique.
+Resposta - Sim, a abrangência da Lei Geral de Proteção de Dados (LGPD) inclui datacenters em países estrangeiros. A lei se aplica a qualquer operação de tratamento de dados pessoais que ocorra no Brasil, independentemente da localização do controlador ou operador, desde que os dados sejam relacionados a indivíduos localizados no Brasil. Isso significa que empresas que tratam dados de brasileiros, mesmo fora do país, devem seguir as disposições da LGPD.
+
+b) Na sua opinião, os servidores de aplicação agem de maneira adequada atualmente:
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique.
+Resposta - Atualmente, os servidores de aplicação frequentemente não agem de maneira adequada em relação ao conteúdo que está em desacordo com suas regras de comunidade. Embora muitos plataformas tenham políticas estabelecidas, a moderação de conteúdo ainda pode ser inconsistente, resultando em falhas na remoção de conteúdo ofensivo ou inadequado. Isso pode ocorrer devido à dificuldade em monitorar grandes volumes de dados e à dependência de relatórios de usuários.
+
+2) em relação ao conteúdo que destrói reputações, sabidamente falso? Explique.
+Resposta - Em relação ao conteúdo que destrói reputações e é sabidamente falso, muitos servidores de aplicação enfrentam desafios significativos. Embora existam políticas contra difamação e fake news, a aplicação efetiva dessas regras pode ser insuficiente. Muitas plataformas ainda lutam para identificar e remover rapidamente conteúdos prejudiciais, resultando em um ambiente onde informações falsas podem circular antes que ações adequadas sejam tomadas.
+
+
+11) No contexto da linguagem de programação Python:
+a) Quais as estruturas de repetição utilizadas?
+Resposta - For e While
+
+b) Como são definidos os blocos de comando?
+Resposta - são definidos por indentação. O código que pertence a um bloco deve ser indentado com espaços ou tabulações, seguindo a mesma quantidade de espaços para manter a hierarquia do código.
+
+c) Quais as duas principais operações realizadas pelo operador +? Explique brevemente
+cada uma delas.
+Resposta - As duas principais operações realizadas pelo operador + em Python são a Soma, utilizada para somar valores numéricos e a Concatenação, utilizada para unir strings. 
+
+d) O que é uma função?
+Resposta - Uma função é um bloco de código que realiza uma tarefa específica e pode ser reutilizado em diferentes partes de um programa. As funções podem receber entradas (argumentos) e retornar saídas (valores).
+
+e) Como definimos uma função?
+Resposta -  utilizamos a palavra-chave def, seguida do nome da função e parênteses com os parâmetros. O bloco de código que forma a função deve ser indentado.
+
+f) Quais as estruturas de tomada de decisão da linguagem? Construa um exemplo de cada
+uma delas.
+Resposta - As estruturas de tomada de decisão em Python são:
+
+if: executa um bloco de código se a condição for verdadeira. 
+EX -
+if x > 10:
+    print("x é maior que 10")
+
+elif: verifica uma condição adicional se a anterior for falsa.
+EX - 
+if x > 10:
+    print("x é maior que 10")
+elif x == 10:
+    print("x é igual a 10")
+
+else: executa um bloco de código se nenhuma das condições anteriores for verdadeira.
+EX - 
+if x > 10:
+    print("x é maior que 10")
+else:
+    print("x é 10 ou menor")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
