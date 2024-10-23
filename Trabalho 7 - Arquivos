@@ -1,0 +1,36 @@
+1) Escreva uma função que pede que o usuário informe seu nome pelo teclado e grave essa informação em um arquivo de texto
+
+def gravar_nome():
+    nome = input("Informe seu nome: ")
+    with open('nomes.txt', 'a') as arquivo:
+        arquivo.write(nome + '\n')
+    print("Nome gravado com sucesso!")
+
+2) Escreva uma função que peça ao usuário o nome de um arquivo de texto e imprima o seu conteúdo. Obs.: considere que o usuário sempre informa o nome de um arquivo que existente.
+
+def imprimir_conteudo():
+    nome_arquivo = input("Informe o nome do arquivo para imprimir seu conteúdo: ")
+    with open(nome_arquivo, 'r') as arquivo:
+        conteudo = arquivo.read()
+        print("Conteúdo do arquivo:")
+        print(conteudo)
+
+3) Escreva uma função que leia o conteúdo do arquivo de exemplo e o escreva em um novo arquivo.
+
+def copiar_conteudo(arquivo_origem, arquivo_destino):
+    with open(arquivo_origem, 'r') as origem:
+        conteudo = origem.read()
+    with open(arquivo_destino, 'w') as destino:
+        destino.write(conteudo)
+    print(f"Conteúdo copiado de {arquivo_origem} para {arquivo_destino}.")
+
+4) Escreva uma função que peça ao usuário um número, percorra o arquivo de exemplo, e escreva na tela o nome correspondente ao número
+
+def imprimir_nome_por_numero():
+    with open('nomes.txt', 'r') as arquivo:
+        nomes = arquivo.readlines()
+    numero = int(input("Informe um número: ")) - 1  # Ajusta para índice zero
+    if 0 <= numero < len(nomes):
+        print(f"Nome correspondente ao número {numero + 1}: {nomes[numero].strip()}")
+    else:
+        print("Número inválido.")
